@@ -1,0 +1,13 @@
+[2021-11-20 17:41:10.026] [exthost] [info] Extension host with pid 16559 started
+[2021-11-20 17:41:10.034] [exthost] [info] Lock '/home/zaloznykhao/.vscode-server/data/User/workspaceStorage/73a84888d6a228e01b636b6b7b8809dd/vscode.lock': Lock acquired.
+[2021-11-20 17:41:10.393] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-20 17:41:10.399] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-20 17:41:11.067] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-20 17:41:11.144] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-20 17:41:11.147] [exthost] [info] Eager extensions activated
+[2021-11-20 17:41:19.142] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage:html'
+[2021-11-20 17:41:19.171] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2021-11-20 18:31:34.778] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onView:dockerContainers'
+[2021-11-20 18:43:01.097] [exthost] [info] extension host terminating: renderer disconnected for too long (2)
+[2021-11-20 18:43:01.102] [exthost] [info] Lock '/home/zaloznykhao/.vscode-server/data/User/workspaceStorage/73a84888d6a228e01b636b6b7b8809dd/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-11-20 18:43:02.115] [exthost] [info] Extension host with pid 16559 exiting with code 0

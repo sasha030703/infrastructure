@@ -1,0 +1,116 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 44237
+
+[16:41:16] Extension host agent started.
+[16:41:16] [127.0.0.1][aca7dc29][ManagementConnection] Unknown reconnection token (never seen).
+[16:41:32] [127.0.0.1][ab058a92][ManagementConnection] New connection established.
+[16:41:32] [127.0.0.1][6b20a75b][ExtensionHostConnection] New connection established.
+[16:41:32] [127.0.0.1][6b20a75b][ExtensionHostConnection] <1918> Launched Extension Host Process.
+[17:06:54] [127.0.0.1][ab058a92][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[17:06:55] [127.0.0.1][6b20a75b][ExtensionHostConnection] <1918> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[17:06:55] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[17:07:06] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[17:07:06] Cancelling previous shutdown timeout
+[17:07:06] [127.0.0.1][3a2319de][ManagementConnection] New connection established.
+[17:07:06] [127.0.0.1][8c75e41d][ExtensionHostConnection] New connection established.
+[17:07:06] [127.0.0.1][8c75e41d][ExtensionHostConnection] <3097> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[17:12:06] New EH opened, aborting shutdown
+[17:21:57] [127.0.0.1][3a2319de][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+Error: disposed
+    at f.requestPromise (/home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:81:9500)
+    at Object.call (/home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:81:9337)
+    at Object.call (/home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:80:7516)
+    at Proxy.<anonymous> (/home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:80:8956)
+    at I.watch (/home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:85:69438)
+    at s.doWatch (/home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:88:12393)
+    at s.doWatch (/home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:88:78534)
+    at s.doRefreshRecursiveWatchers (/home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:88:12311)
+    at /home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:88:11797
+    at b.queue (/home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:77:11973)
+    at /home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:77:13464
+    at /home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:77:12926
+[17:21:58] [127.0.0.1][8c75e41d][ExtensionHostConnection] <3097> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[17:21:58] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[17:22:09] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[17:22:09] Cancelling previous shutdown timeout
+[17:22:09] [127.0.0.1][c0d74d21][ManagementConnection] New connection established.
+[17:22:09] [127.0.0.1][817babae][ExtensionHostConnection] New connection established.
+[17:22:09] [127.0.0.1][817babae][ExtensionHostConnection] <14914> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[17:27:09] New EH opened, aborting shutdown
+[17:40:57] [127.0.0.1][c0d74d21][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+Error: disposed
+    at f.requestPromise (/home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:81:9500)
+    at Object.call (/home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:81:9337)
+    at Object.call (/home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:80:7516)
+    at Proxy.<anonymous> (/home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:80:8956)
+    at I.watch (/home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:85:69438)
+    at s.doWatch (/home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:88:12393)
+    at s.doWatch (/home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:88:78534)
+    at s.doRefreshRecursiveWatchers (/home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:88:12311)
+    at /home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:88:11797
+    at b.queue (/home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:77:11973)
+    at /home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:77:13464
+    at /home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:77:12926
+[17:40:58] [127.0.0.1][817babae][ExtensionHostConnection] <14914> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[17:40:58] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[17:41:08] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[17:41:08] Cancelling previous shutdown timeout
+[17:41:09] [127.0.0.1][2c755290][ManagementConnection] New connection established.
+[17:41:09] [127.0.0.1][0c2e87a4][ExtensionHostConnection] New connection established.
+[17:41:09] [127.0.0.1][0c2e87a4][ExtensionHostConnection] <16559> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[17:46:08] New EH opened, aborting shutdown
+[18:31:07] Installing extension: ms-azuretools.vscode-docker
+[18:31:10] Downloaded extension: ms-azuretools.vscode-docker /home/zaloznykhao/.vscode-server/data/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.18.0
+[18:31:10] Extracted extension to /home/zaloznykhao/.vscode-server/extensions/.670b63e7-fe0e-4bce-b8bb-4bc68852fb4b: ms-azuretools.vscode-docker
+[18:31:10] Renamed to /home/zaloznykhao/.vscode-server/extensions/ms-azuretools.vscode-docker-1.18.0
+[18:31:10] Extracting completed. ms-azuretools.vscode-docker
+[18:31:10] Extension installed successfully: ms-azuretools.vscode-docker
+[18:36:37] [127.0.0.1][2c755290][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/bootstrap.js:1:370)
+    at process.emit (events.js:315:20)
+[18:38:00] [127.0.0.1][2c755290][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[18:38:00] [127.0.0.1][f70a1070][ManagementConnection] New connection established.
+[18:38:00] [127.0.0.1][1f30d78e][ExtensionHostConnection] New connection established.
+[18:38:00] [127.0.0.1][1f30d78e][ExtensionHostConnection] <22269> Launched Extension Host Process.
+[IPC Library: Pty Host]  INFO Persistent process "21": Replaying 5874 chars and 1 size events
+[18:43:01] [127.0.0.1][2c755290][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+Error: disposed
+    at f.requestPromise (/home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:81:9500)
+    at Object.call (/home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:81:9337)
+    at Object.call (/home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:80:7516)
+    at Proxy.<anonymous> (/home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:80:8956)
+    at I.watch (/home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:85:69438)
+    at s.doWatch (/home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:88:12393)
+    at s.doWatch (/home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:88:78534)
+    at s.doRefreshRecursiveWatchers (/home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:88:12311)
+    at /home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:88:11797
+    at b.queue (/home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:77:11973)
+    at /home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:77:13464
+    at /home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostAgent.js:77:12926
+[18:43:02] [127.0.0.1][0c2e87a4][ExtensionHostConnection] <16559> Extension Host Process exited with code: 0, signal: null.
+[19:22:57] No ptyHost heartbeat after 6 seconds
+[12:05:51] [127.0.0.1][f70a1070][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/zaloznykhao/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/bootstrap.js:1:370)
+    at process.emit (events.js:315:20)

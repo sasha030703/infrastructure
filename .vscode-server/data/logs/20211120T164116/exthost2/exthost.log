@@ -1,0 +1,10 @@
+[2021-11-20 17:07:07.247] [exthost] [info] Extension host with pid 3097 started
+[2021-11-20 17:07:07.253] [exthost] [info] Lock '/home/zaloznykhao/.vscode-server/data/User/workspaceStorage/96685871eb1bc467ad65f16a69ce343c/vscode.lock': Lock acquired.
+[2021-11-20 17:07:07.310] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-20 17:07:07.317] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-20 17:07:07.434] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-20 17:07:07.606] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-20 17:07:07.613] [exthost] [info] Eager extensions activated
+[2021-11-20 17:21:57.237] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-11-20 17:21:57.238] [exthost] [info] Lock '/home/zaloznykhao/.vscode-server/data/User/workspaceStorage/96685871eb1bc467ad65f16a69ce343c/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-11-20 17:21:58.243] [exthost] [info] Extension host with pid 3097 exiting with code 0

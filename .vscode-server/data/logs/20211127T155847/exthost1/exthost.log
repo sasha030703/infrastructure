@@ -1,0 +1,11 @@
+[2021-11-27 15:58:48.611] [exthost] [info] Extension host with pid 1971 started
+[2021-11-27 15:58:48.739] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-27 15:58:48.743] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-27 15:58:48.933] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-27 15:58:48.982] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-27 15:58:48.985] [exthost] [info] Eager extensions activated
+[2021-11-27 15:58:51.496] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-11-27 15:58:51.503] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-11-27 15:58:51.597] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-11-27 15:59:16.755] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-11-27 15:59:17.766] [exthost] [info] Extension host with pid 1971 exiting with code 0

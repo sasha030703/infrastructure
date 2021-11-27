@@ -1,0 +1,57 @@
+[2021-11-20 16:41:16.777] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-11-20 16:41:16.777] [remoteagent] [info] Extension host agent started.
+[2021-11-20 16:41:16.942] [remoteagent] [error] [127.0.0.1][aca7dc29][ManagementConnection] Unknown reconnection token (never seen).
+[2021-11-20 16:41:32.268] [remoteagent] [info] [127.0.0.1][ab058a92][ManagementConnection] New connection established.
+[2021-11-20 16:41:32.276] [remoteagent] [info] [127.0.0.1][6b20a75b][ExtensionHostConnection] New connection established.
+[2021-11-20 16:41:32.282] [remoteagent] [info] [127.0.0.1][6b20a75b][ExtensionHostConnection] <1918> Launched Extension Host Process.
+[2021-11-20 17:06:54.201] [remoteagent] [info] [127.0.0.1][ab058a92][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-11-20 17:06:55.218] [remoteagent] [info] [127.0.0.1][6b20a75b][ExtensionHostConnection] <1918> Extension Host Process exited with code: 0, signal: null.
+[2021-11-20 17:06:55.218] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-11-20 17:07:06.196] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-11-20 17:07:06.196] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-11-20 17:07:06.258] [remoteagent] [info] [127.0.0.1][3a2319de][ManagementConnection] New connection established.
+[2021-11-20 17:07:06.371] [remoteagent] [info] [127.0.0.1][8c75e41d][ExtensionHostConnection] New connection established.
+[2021-11-20 17:07:06.380] [remoteagent] [info] [127.0.0.1][8c75e41d][ExtensionHostConnection] <3097> Launched Extension Host Process.
+[2021-11-20 17:12:06.198] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-11-20 17:21:57.235] [remoteagent] [info] [127.0.0.1][3a2319de][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-11-20 17:21:58.252] [remoteagent] [info] [127.0.0.1][8c75e41d][ExtensionHostConnection] <3097> Extension Host Process exited with code: 0, signal: null.
+[2021-11-20 17:21:58.253] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-11-20 17:22:09.258] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-11-20 17:22:09.258] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-11-20 17:22:09.350] [remoteagent] [info] [127.0.0.1][c0d74d21][ManagementConnection] New connection established.
+[2021-11-20 17:22:09.351] [remoteagent] [info] [127.0.0.1][817babae][ExtensionHostConnection] New connection established.
+[2021-11-20 17:22:09.355] [remoteagent] [info] [127.0.0.1][817babae][ExtensionHostConnection] <14914> Launched Extension Host Process.
+[2021-11-20 17:27:09.260] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-11-20 17:40:57.001] [remoteagent] [info] [127.0.0.1][c0d74d21][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-11-20 17:40:58.015] [remoteagent] [info] [127.0.0.1][817babae][ExtensionHostConnection] <14914> Extension Host Process exited with code: 0, signal: null.
+[2021-11-20 17:40:58.016] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-11-20 17:41:08.991] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-11-20 17:41:08.991] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-11-20 17:41:09.063] [remoteagent] [info] [127.0.0.1][2c755290][ManagementConnection] New connection established.
+[2021-11-20 17:41:09.069] [remoteagent] [info] [127.0.0.1][0c2e87a4][ExtensionHostConnection] New connection established.
+[2021-11-20 17:41:09.074] [remoteagent] [info] [127.0.0.1][0c2e87a4][ExtensionHostConnection] <16559> Launched Extension Host Process.
+[2021-11-20 17:46:08.994] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-11-20 18:31:07.326] [remoteagent] [info] Installing extension: ms-azuretools.vscode-docker
+[2021-11-20 18:31:10.075] [remoteagent] [info] Downloaded extension: ms-azuretools.vscode-docker /home/zaloznykhao/.vscode-server/data/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.18.0
+[2021-11-20 18:31:10.283] [remoteagent] [info] Extracted extension to /home/zaloznykhao/.vscode-server/extensions/.670b63e7-fe0e-4bce-b8bb-4bc68852fb4b: ms-azuretools.vscode-docker
+[2021-11-20 18:31:10.292] [remoteagent] [info] Renamed to /home/zaloznykhao/.vscode-server/extensions/ms-azuretools.vscode-docker-1.18.0
+[2021-11-20 18:31:10.294] [remoteagent] [info] Extracting completed. ms-azuretools.vscode-docker
+[2021-11-20 18:31:10.295] [remoteagent] [info] Extension installed successfully: ms-azuretools.vscode-docker
+[2021-11-20 18:36:37.142] [remoteagent] [info] [127.0.0.1][2c755290][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-11-20 18:38:00.819] [remoteagent] [info] [127.0.0.1][2c755290][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-11-20 18:38:00.819] [remoteagent] [info] [127.0.0.1][f70a1070][ManagementConnection] New connection established.
+[2021-11-20 18:38:00.820] [remoteagent] [info] [127.0.0.1][1f30d78e][ExtensionHostConnection] New connection established.
+[2021-11-20 18:38:00.836] [remoteagent] [info] [127.0.0.1][1f30d78e][ExtensionHostConnection] <22269> Launched Extension Host Process.
+[2021-11-20 18:43:01.209] [remoteagent] [info] [127.0.0.1][2c755290][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2021-11-20 18:43:02.128] [remoteagent] [info] [127.0.0.1][0c2e87a4][ExtensionHostConnection] <16559> Extension Host Process exited with code: 0, signal: null.
+[2021-11-21 12:05:42.192] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-11-21 12:05:51.242] [remoteagent] [info] [127.0.0.1][f70a1070][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
